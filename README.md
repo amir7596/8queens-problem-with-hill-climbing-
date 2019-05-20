@@ -5,7 +5,7 @@ solving 8-queens problem with hill climbing algorithm in c++
 <li>iostream</li>
 <li>set</li>
 <li>windows.h</li>
-<li><vector/li>
+<li>vector/li>
 <li>time.h</li>
 </ul>
 
